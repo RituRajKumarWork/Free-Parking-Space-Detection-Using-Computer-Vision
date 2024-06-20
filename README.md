@@ -5,7 +5,6 @@
 ![2](https://github.com/RituRajKumarWork/Free-Parking-Space-Detection-Using-Computer-Vision/assets/126075558/c34849fd-9d0c-4b50-9b75-87077b20d0a8)
 
 
-
 #### Ritu Raj Kumar  
 **Department of Computer Science and Engineering, India**
 
@@ -82,14 +81,3 @@ The proposed system was implemented using Python and OpenCV. It was tested on a 
 The development of an automated parking space detection system using image processing represents a significant advancement in urban transportation management. Our system leverages computer vision and machine learning to address the challenges of parking space availability, providing real-time updates to drivers and urban planners. The proposed methodology is robust and cost-effective, with potential applications in smart cities to alleviate traffic congestion and improve urban mobility. Future research will explore the integration of sensor fusion and edge computing to enhance system performance further.
 
 ---
-
-### References
-
-1. Ming-Yee Chiu et al., "An embedded real-time vision system for 24-hour indoor/outdoor car-counting applications," Pattern Recognition, 2004.
-2. Zhang Bin et al., "A design of parking space detector based on video image," Electronic Measurement & Instruments, 2009.
-3. T. Mar et al., "Video-based parking space detection," 2012.
-4. Ichihashi et al., "Vacant parking space detector for outdoor parking lot using surveillance camera and FCM classifier," FUZZ-IEEE, 2009.
-5. Boda et al., "Design considerations for a wireless sensor network for locating parking spaces," SoutheastCon, 2007.
-6. Thomas Fabian, "An Algorithm for Parking Lot Occupation Detection," Computer Information Systems and Industrial Management Applications, 2008.
-7. Yusnita et al., "Intelligent Parking Space Detection System Based on Image Processing," 2012.
-8. Najmi Hafizi et al., "Parking lot detection using image processing method," 2013.
