@@ -1,7 +1,8 @@
 # Free-Parking-Space-Detection-Using-Computer-Vision
 
 ### Smart Parking Space Detection System
-![1](https://github.com/RituRajKumarWork/Free-Parking-Space-Detection-Using-Computer-Vision/assets/126075558/d10c83d1-3df6-44ae-8a02-795737f1e966)
+![image for showing](https://github.com/RituRajKumarWork/Free-Parking-Space-Detection-Using-Computer-Vision/assets/126075558/a449ec6f-4cda-41ab-a99d-ca65ed890fde)
+
 ![2](https://github.com/RituRajKumarWork/Free-Parking-Space-Detection-Using-Computer-Vision/assets/126075558/c34849fd-9d0c-4b50-9b75-87077b20d0a8)
 
 
