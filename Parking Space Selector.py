@@ -60,7 +60,7 @@ def draw_text(image, text, position, font_scale=1, thickness=2, color=(255, 255,
 
 
 while True:
-    image = cv2.imread('Parking_Parking_DroneView_Img.png')
+    image = cv2.imread('Parking_Parking_DroneView_Image.png')
     for idx, pos in enumerate(parking_positions):
         cv2.rectangle(image, pos, (pos[0] + spot_width, pos[1] + spot_height), (255, 0, 255), 2)
         draw_text(image, str(idx + 1), (pos[0] + 10, pos[1] + 30), font_scale=1, thickness=2, color=(255, 255, 255),
